@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shreyash Pankaj</h1>
+<h1 align="center">Hi, I'm Shreyash</h1>
 <h3 align="center">Focused and quick-learning final year Computer Science student with a keen interest in problem solving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyaxh&label=Profile%20views&color=0e75b6&style=flat" alt="shreyaxh" /> </p>
@@ -6,6 +6,8 @@
 - 🔭 I’m currently working as an **Associate Software Engineer Intern**
 
 - 📫 How to reach me **shreyyash2@gmail.com**
+
+- 📄 Know about my experiences [Click me](https://drive.google.com/file/d/1qXmv71cpG8CgVKvdhUQy-05J0OqP_vR4/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
