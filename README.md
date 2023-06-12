@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **shreyyash2@gmail.com**
 
-- 📄 Know about my experiences [Click me](https://drive.google.com/file/d/1qXmv71cpG8CgVKvdhUQy-05J0OqP_vR4/view?usp=drive_link)
+- 📄 Know about my experiences [click me](https://drive.google.com/file/d/1qXmv71cpG8CgVKvdhUQy-05J0OqP_vR4/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
