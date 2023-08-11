@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shreyash</h1>
-<h3 align="center">Focused and quick-learning final year Computer Science student with a keen interest in problem solving.</h3>
+<h3 align="center">Focused and quick-learning Software Engineer with a keen interest in problem solving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyaxh&label=Profile%20views&color=0e75b6&style=flat" alt="shreyaxh" /> </p>
 
