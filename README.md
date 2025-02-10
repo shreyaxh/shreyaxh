@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyaxh&label=Profile%20views&color=0e75b6&style=flat" alt="shreyaxh" /> </p>
 
-- 🔭 **Engineering @JNamma Yatri**
+- 🔭 **Engineering @Namma Yatri**
 
 - 📫 How to reach me **shreyyash2@gmail.com**
 
