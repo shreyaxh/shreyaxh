@@ -5,6 +5,6 @@
 
 - 🔭 **Engineering @Namma Yatri**
 
-- 📫 How to reach me **shreyyash2@gmail.com**
+- 📫 How to reach me **workwithshreyashp@gmail.com**
 
 - 📄 Know about my experiences [click me](https://drive.google.com/file/d/1qXmv71cpG8CgVKvdhUQy-05J0OqP_vR4/view?usp=drive_link)
